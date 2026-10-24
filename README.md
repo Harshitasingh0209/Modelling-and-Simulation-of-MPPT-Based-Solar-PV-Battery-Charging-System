@@ -1,4 +1,4 @@
-# Modelling and Simulation of an MPPT-Based Solar PV Battery Charging System
+# Modelling and Simulation of MPPT-Based Solar PV Battery Charging System
 
 ## Overview
 This project focuses on modelling and simulation of a solar photovoltaic (PV) system integrated with a Maximum Power Point Tracking (MPPT) controller, battery storage, DC-DC converters, and an inverter using MATLAB/Simulink.
